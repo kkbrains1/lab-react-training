@@ -1,0 +1,28 @@
+.creditcard-container img {
+  display: flex;
+  justify-self: end;
+  align-self: flex-end;
+  height: 1em;
+  width: 2em;
+}
+
+.creditcard-container {
+  display: flex;
+  flex-direction: column;
+  border: 0.1em;
+  border-radius: 3%;
+  width: 14em;
+  margin: 1em;
+  padding: 1em;
+}
+
+.creditcard-container .number {
+  font-size: 1.6em;
+  margin:0.6em;
+
+}
+
+.small-font {
+  font-size: 0.8em;
+  align-self: flex-start;
+}

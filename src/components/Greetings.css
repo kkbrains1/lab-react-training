@@ -1,7 +1,7 @@
 .greetings-container {
   text-align: left;
-  font-size: 2em;
   margin: 1em;
+  padding: 0.5em;
   border: solid 0.1em;
 }
 
