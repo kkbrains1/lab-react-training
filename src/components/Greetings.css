@@ -1,0 +1,10 @@
+.greetings-container {
+  text-align: left;
+  font-size: 2em;
+  margin: 1em;
+  border: solid 0.1em;
+}
+
+p {
+  margin: 0.25em;
+}
