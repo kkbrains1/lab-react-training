@@ -1,0 +1,14 @@
+.boxcolor-container {
+  text-align: center;
+  font-size: 1.6em;
+  margin: 1em;
+  border: solid 0.1em;
+}
+
+.boxcolor-text {
+  margin: 1em;
+}
+
+p {
+  margin: 0;
+}
