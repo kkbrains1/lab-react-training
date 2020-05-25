@@ -10,7 +10,7 @@ const IdCard = (props) => {
         <li><strong>First Name: </strong> {firstName} </li>
         <li><strong>Last Name: </strong> {lastName} </li>
         <li><strong>Gender: </strong> {gender} </li>
-        <li><strong>Height: </strong> {height} </li>
+        <li><strong>Height: </strong> {height/100}m </li>
         <li><strong>Birth: </strong> {birth.toDateString()} </li>
       </ul>
     </div>
