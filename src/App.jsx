@@ -6,6 +6,9 @@ import Greetings from './components/Greetings';
 import Random from './components/Random';
 import BoxColor from './components/BoxColor';
 import CreditCard from './components/CreditCard';
+import LikeButton from './components/LikeButton';
+import ClickablePicture from './components/ClickablePicture';
+import Dice from './components/Dice';
 
 function App() {
   return (
@@ -74,6 +77,16 @@ function App() {
         color="white"
       />
       </div>
+
+      <h2>LikeButton</h2>
+      <LikeButton />
+
+      <h2>ClickablePicture</h2>
+      <ClickablePicture />
+
+      <h2>Dice</h2>
+      <Dice />
+
     </div>
   );
 }

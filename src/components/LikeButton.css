@@ -1,0 +1,13 @@
+.like-button-container {
+  text-align: center;
+  margin: 1em;
+  padding: 1em;
+  border: solid 0.1em black;
+}
+
+.like-button-container button {
+  border: solid 0.1em black;
+  border-radius: 5%;
+  background-color: #8F4FD6;
+  height: 3em;
+}

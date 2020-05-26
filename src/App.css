@@ -44,6 +44,6 @@ h2 {
 
 .creditCards {
   display: flex;
-  justify-content: start;
+  justify-content: flex-start;
   margin: 1em;
 }
